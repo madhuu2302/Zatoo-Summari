@@ -106,14 +106,12 @@ The main objective of this project is to demonstrate how pre-trained Natural Lan
 * Improved user interface.
 * Support for additional NLP tasks.
 
-## Developer
-
-**Developed by:** Madhumitha
-
 ## Conclusion
 
 Zatoo Summari demonstrates the practical use of Artificial Intelligence, Natural Language Processing, Hugging Face Transformers, and Streamlit to build an interactive text-processing application.
 
+## Developer
+
+**Developed by:** Madhumitha
 ---
 
-If you find this project useful, consider giving the repository a star.
