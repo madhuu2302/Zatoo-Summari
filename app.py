@@ -22,6 +22,7 @@ def load_summarizer():
     return pipeline(
         "text2text-generation",
         model="google/flan-t5-base"
+    
     )
 
 @st.cache_resource
